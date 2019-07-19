@@ -4,4 +4,4 @@ Most modules in python run on only 1 core of your comuter so if you have a multi
 
 This notebook shows how it can be implemented by using the process pool executor class.
 
-Notebook code is explained inside it.
+Notebook code is explained inside it. 
